@@ -1,0 +1,13 @@
+.book-item {
+  margin-bottom: 1rem;
+}
+
+.cover-image-container {
+  width: 100%;
+}
+
+.cover-image-container img {
+  width: 100%;
+  vertical-align: 0;
+  border: 0;
+}

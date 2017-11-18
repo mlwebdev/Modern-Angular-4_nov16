@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+.clear {
+  display: block;
+  overflow: hidden;
+}
